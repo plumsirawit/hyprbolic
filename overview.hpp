@@ -40,6 +40,9 @@ class COverview {
 
     PHLMONITORREF pMonitor;
     bool          m_isSwiping = false;
+    GLuint        VertexArrayID;
+    GLuint        vertexbuffer;
+    GLuint        buf;
 
   private:
     void       redrawID(int id, bool forcelowres = false);

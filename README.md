@@ -3,6 +3,8 @@
 `hyprbolic` is an overview plugin, forked from `hyprexpo`, with the goal of providing a hyperbolic space visualization instead of table in `hyprexpo`.
 
 Original `hyprexpo`: https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo.
+
+Hyperbolic shader example: thanks to Icy! https://github.com/MasterIceZ/poincare-disk 
   
 ## Config
 A great start to configure this plugin would be adding this code to the `plugin` section of your hyprland configuration file:  
